@@ -19,6 +19,6 @@ Backend: Node.js, Express.js
 
 Database: Supabase (PostgreSQL)
 
-Frontend: Coming soon...
+Frontend: React.js
 
 Authentication: Supabase
